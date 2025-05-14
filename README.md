@@ -5,7 +5,7 @@
 
 ## 🛠 Tech Stack
 **Languages:** Python, JavaScript, C++, SQL  
-**Tools:** Flask, Git, Docker, PostgreSQL  
+**Tools:** Firebase, Flask, Git, Docker, PostgreSQL  
 **Learning:** Angular, C#
 
 ## 🚀 Projects
