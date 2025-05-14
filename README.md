@@ -8,5 +8,10 @@
 **Tools:** Flask, Git, Docker, PostgreSQL  
 **Learning:** Angular, C#
 
+## 🚀 Projects
+- 🔍 [Search Engine](https://github.com/robertkhzouz/search-engine) — *BM25 & PageRank Scoring*
+- 🧳 [Airbnb Clone](https://github.com/robertkhzouz/Airbnb-Clone) — *React & NextJS w/ Prisma ORM*
+- 🔄 [Data Pipeline](https://github.com/robertkhzouz/RandomUserGen) — *Apache Technologies & Docker Containerization*
+
 ## 📫 Contact
 [LinkedIn](https://linkedin.com/in/robertkhzouz)
