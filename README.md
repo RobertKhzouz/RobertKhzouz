@@ -1,13 +1,13 @@
 # Hi there, I’m Robert 👋
 
-🎓 CS student @ UM–Dearborn | 💻 Full-Stack SWE Intern @ Rocket  
+🎓 CS student @ UM–Dearborn | Researching Agentic AI & Information Retrieval  
 🔎 I love working on backend systems, databases, and search engines.
 
 ## 🛠 Tech Stack
-**Languages:** Python, JavaScript/TypeScript, C/C++, SQL  
-**Frameworks:** React, React Native, Flask, Angular, Spark, Airflow, Kafka  
-**Tools:** Firebase, Git, Docker  
-**Learning:** Angular, C#, TypeScript, AWS
+**Languages:** Python, JavaScript / TypeScript, C#, C/C++, SQL  
+**Frameworks:** Angular, .NET, React / React Native, Flask, Spark, Airflow, Kafka  
+**Tools:** Firebase, Git, Docker, Kubernetes  
+**Learning:** AWS, Haskell & Functional Programming, Agentic RAG
 
 [![Languages](https://skillicons.dev/icons?i=py,react,nextjs,angular,flask,js,ts,cpp,c,cs,dotnet,html,css,bootstrap,tailwind,kafka,cassandra,mongodb,sqlite,mysql,postgresql,prisma,docker,regex,github,git)](https://skillicons.dev)
 
