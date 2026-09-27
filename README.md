@@ -1,9 +1,9 @@
 # Hi there, I’m Robert 🐼
 
-I’m a Full Stack Software Engineering Intern at Rocket with a background spanning full-stack development, backend systems, databases, and applied ML / research topics. I’m especially interested in search, recommendation systems, graph learning, and building reliable software that connects research ideas to practical applications.
+I’m a Software Engineer at Ford with a background spanning full-stack development, backend systems, databases, and applied ML / research topics. I’m especially interested in search, recommendation systems, graph learning, and building reliable software that connects research ideas to practical applications.
 
 Previously:
-- Software Engineering Intern @ Rocket ('25) building full-stack applications
+- Software Engineering Intern @ Rocket ('25, '26) building full-stack applications
 - Undergraduate Researcher & Independent Researcher working on Agentic systems and GNN architectures
 - Computer Science Tutor supporting students in programming and CS fundamentals
 
